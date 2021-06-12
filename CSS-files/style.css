@@ -1,0 +1,84 @@
+html {
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #B4C7D8;
+  }
+  body {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 25px 25px 25px 25px;
+    border: 1px solid #F7F7F7;
+  }
+  h1 {
+    font-size: 2em;
+    text-align: center;
+    margin: 0;
+    padding: 8px 0;
+    text-shadow: 3px 3px 3px #CFD1D2;
+  }
+  h2 {
+    font-size: 1.5em;
+  }
+  h3.describer {
+    font-size: 1.2em;
+    text-align: center;
+    padding: 0;
+    margin: 2px 0;
+  }
+  p, li {
+    font-size: medium;
+    line-height: 150%;
+    letter-spacing: normal;
+  }
+  p.descriptionText {
+    font-size: small;
+    line-height: 150%;
+    letter-spacing: normal;
+    text-align: center;
+  }
+  p.mentionText {
+    font-size: small;
+    line-height: 150%;
+    letter-spacing: normal;
+    transform: translate(920px,-1550%);
+  }
+  p.space {
+    font-size: medium;
+    line-height: 150%;
+    letter-spacing: normal;
+    margin: -5px 0 40px;
+  }
+  p.spacier {
+    font-size: medium;
+    line-height: 150%;
+    letter-spacing: normal;
+    margin: 40px 0 40px;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: normal;
+  }
+  button.goodButton{
+    margin: 0;
+    position: absolute;
+    top: 15px;
+    transform: translateX(2175%);
+  }
+  ul.goodList{
+    margin: -20px;
+  }
+  ol.goodList{
+    margin: -10px;
+  }
+  img.fixedImage{
+    margin: 70px auto auto 20px;
+    transform: translateX(50%);
+  }
+  img.fixeyImage{
+    margin: 50px 50px auto 475px;
+    width: normal;
+  }
+
